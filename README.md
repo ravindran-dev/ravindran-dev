@@ -142,7 +142,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ravindran-dev/ravindran-dev/output/pacman-contribution-graph-dark.svg" width="95%" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/ravindran-dev/ravindran-dev/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
