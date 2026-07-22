@@ -2,33 +2,43 @@
   <img src="https://readme-typing-svg.demolab.com?font=fira+code&size=40&duration=3000&pause=1500&color=7F3FF2&center=true&vCenter=true&width=700&height=120&lines=Hi+%F0%9F%91%8B+I'm+Ravindran+S;AI+%26+ML+Enthusiast;Full-Stack+Developer;Passionate+Coder" alt="Typing SVG" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindran&label=Profile%20views&color=0e75b6&style=flat" alt="ravindran" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindran&label=Profile%20views&color=7F3FF2&style=flat" alt="ravindran" /> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-</a>
+<div align="center">
+  <img width="400" alt="GIF" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</div>
 
-
+<div align="center">
 
 𝗣𝘂𝗿𝘀𝘂𝗶𝗻𝗴 **𝗕.𝗘. 𝗶𝗻 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 & 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴**  
 𝗖𝗜𝗧 𝗖𝗼𝗹𝗹𝗲𝗴𝗲
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
+
+<div align="center">
 
 **𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴**
 - 𝗠𝗶𝗻𝗶𝗻𝗴 𝗟𝗖𝗔 – 𝗦𝗜𝗛 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 *(React • Flask • ML)*
 - 𝗗𝗿𝗼𝗻𝗲 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
+
+<div align="center">
 
 **𝗢𝗽𝗲𝗻 𝗳𝗼𝗿**
-- Hackathon Collaborations  
-- ML Freelancing Opportunities  
+- Hackathon Collaborations
+- ML Freelancing Opportunities
 
 **𝗧𝗲𝗰𝗵 𝗙𝗼𝗰𝘂𝘀**
-- Full-Stack Development (React.js, Flask)  
-- Machine Learning  
-- AWS Cloud Deployment  
+- Full-Stack Development (React.js, Flask)
+- Machine Learning
+- AWS Cloud Deployment
+
+</div>
 
 <p align="center">
 
@@ -44,29 +54,37 @@
 
 <br/>
 
-
---- 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ravindran-dev&theme=github-dark&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3&sideNums=bf91f3&sideLabels=bf91f3&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravindran-dev&theme=tokyo-night)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header" width="100%"/>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindran-dev&theme=tokyonight"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravindran-dev&theme=tokyonight"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravindran-dev&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ravindran-dev&theme=tokyonight&ring=7F3FF2&fire=7F3FF2&currStreakLabel=7F3FF2&sideNums=7F3FF2&sideLabels=7F3FF2&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravindran-dev&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindran-dev&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindran-dev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 </p>
 
----
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindran-dev&theme=tokyonight" width="500"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravindran-dev&theme=tokyonight" width="500"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravindran-dev&theme=tokyonight" width="500"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravindran-dev&theme=tokyonight" width="500"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindran-dev&theme=tokyonight" width="500"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
 
 <h3 align="center">Languages & Tools</h3>
 
@@ -121,35 +139,32 @@
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%"/>
 
-![Snake animation](https://raw.githubusercontent.com/ravindran-dev/ravindran-dev/output/pacman-contribution-graph-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ravindran-dev/ravindran-dev/output/pacman-contribution-graph-dark.svg" width="95%" alt="Snake animation"/>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
 
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px; vertical-align: middle;">Connect with me 🤝</h3>
 
-
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="www.linkedin.com/in/ravindran-s-982702327">
+<div align="center" class="icons-social">
+    <a style="margin: 0 10px;" target="_blank" href="https://www.linkedin.com/in/ravindran-s-982702327">
         <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/ravindran-dev">
+    <a style="margin: 0 10px;" target="_blank" href="https://github.com/ravindran-dev">
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/32134462/ravindran-s">
+    <a style="margin: 0 10px;" target="_blank" href="https://stackoverflow.com/users/32134462/ravindran-s">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ravindran_s_l/?next=%2F&hl=en">
+    <a style="margin: 0 10px;" target="_blank" href="https://www.instagram.com/ravindran_s_l/?next=%2F&hl=en">
         <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
     </a>
-    
-  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/your-channel">
-        <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" >
+    <a style="margin: 0 10px;" target="_blank" href="https://www.youtube.com/your-channel">
+        <img src="https://img.icons8.com/doodle/1x/youtube--v2.png">
     </a>
 </div>
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
