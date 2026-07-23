@@ -20,8 +20,9 @@
 <div align="center">
 
 **𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴**
-- 𝗠𝗶𝗻𝗶𝗻𝗴 𝗟𝗖𝗔 – 𝗦𝗜𝗛 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 *(React • Flask • ML)*
-- 𝗗𝗿𝗼𝗻𝗲 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻
+- Linux kernel and OS wrapping 
+- ZenMode, Linux dotfiles 
+- Microdet 
 
 </div>
 
@@ -30,12 +31,13 @@
 <div align="center">
 
 **𝗢𝗽𝗲𝗻 𝗳𝗼𝗿**
-- Hackathon Collaborations
-- ML Freelancing Opportunities
+Hackathon Collaborations &
+ML Freelancing Opportunities
 
 **𝗧𝗲𝗰𝗵 𝗙𝗼𝗰𝘂𝘀**
-- Full-Stack Development (React.js, Flask)
-- Machine Learning
+- AOSP developer, Linux(LTS)
+- Software Developer (SDE - 1)
+- Machine Learning Engineer
 - AWS Cloud Deployment
 
 </div>
