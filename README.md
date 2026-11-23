@@ -161,9 +161,6 @@ ML Freelancing Opportunities
     <a style="margin: 0 10px;" target="_blank" href="https://stackoverflow.com/users/32134462/ravindran-s">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
     </a>
-    <a style="margin: 0 10px;" target="_blank" href="https://www.instagram.com/ravindran_s_l/?next=%2F&hl=en">
-        <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-    </a>
     <a style="margin: 0 10px;" target="_blank" href="https://www.youtube.com/your-channel">
         <img src="https://img.icons8.com/doodle/1x/youtube--v2.png">
     </a>
